@@ -1,1 +1,0 @@
-The open-source part of the code that I did for my internship to do radar processing for the KMD2 Radar. This code does Fast Fourier Transform (FFT) for KMD2 Radar readings (RADC mode) using the fftw3 library. To use, compile the fftw library and run `./program_name data_file_name`.
